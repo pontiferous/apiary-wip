@@ -96,9 +96,20 @@ textarea {
  /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+  p .who{
+    margin-left: 50;
+  }
 
-  ul {
-    list-style-type: none;
+  p .what{
+    margin-left: 100;
+  }
+
+  p .links{
+    margin-left: 50;
+  }
+
+  p .contact{
+    margin-left: 100;
   }
 
 
