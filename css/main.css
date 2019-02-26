@@ -102,26 +102,30 @@ textarea {
 
   p{
     text-align: center;
+    font-family: 'Raleway', sans-serif;
+    padding-top: 100px;
+    padding-bottom: 100px;
   }
 
   #who{
-    padding-left: 50px;
+    padding-left: 35px;
   }
 
   #what{
-    padding-left: 100px;
+    padding-left: 150px;
   }
 
   #links{
-    padding-left: 50px;
+    padding-left: 35px;
   }
 
   #contact{
-    padding-left: 100px;
+    padding-left: 150px;
   }
 
   footer{
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
   }
 
 
