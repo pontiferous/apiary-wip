@@ -96,33 +96,33 @@ textarea {
  /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-  p .who{
-    margin-left: 50;
+  img{
+
   }
 
-  p .what{
-    margin-left: 100;
+  p{
+    text-align: center;
   }
 
-  p .links{
-    margin-left: 50;
+  #who{
+    padding-left: 50px;
   }
 
-  p .contact{
-    margin-left: 100;
+  #what{
+    padding-left: 100px;
   }
 
+  #links{
+    padding-left: 50px;
+  }
 
+  #contact{
+    padding-left: 100px;
+  }
 
-
-
-
-
-
-
-
-
-
+  footer{
+    text-align: center;
+  }
 
 
  /* ==========================================================================
